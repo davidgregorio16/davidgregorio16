@@ -1,6 +1,6 @@
 <!-- 07/27/2022 -->
 
-![MasterHead](https://raw.githubusercontent.com/davidgregorio16/davidgregorio16/main/icons/banner.png)
+![Banner](https://raw.githubusercontent.com/davidgregorio16/davidgregorio16/main/banner.png)
 <h1 align="center">Hey, I'm David Gregorio! 😸</h1>
 <h3 align="center">A BSIT student at Polytechnic Institute of Tabaco</h3>
 
