@@ -22,7 +22,7 @@ Hey, I'm David Gregorio!
 </div>
 
 <!-- Dark Mode -->
-<div align="center" style="display: flex; flex-direction: row;">
+<div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
 <img width=55% height=180 src="https://github-readme-stats.vercel.app/api?username=davidgregorio16&show_icons=true&count_private=true&line_height=28&include_all_commits=true&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats&theme=react&hide_border=1&bg_color=00000000#gh-dark-mode-only" alt="David Gregorio's Github stats" />
 </a>
