@@ -21,9 +21,9 @@ Hey, I'm David Gregorio!
 </a>
 </div>
 <!-- Dark Mode -->
-<div style="display: flex; flex-direction: row;">
-<img width=52% src="https://github-readme-stats.vercel.app/api?username=davidgregorio16&show_icons=true&count_private=true&line_height=28&include_all_commits=true&card_width=450&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats&theme=react&hide_border=1&bg_color=000000#gh-dark-mode-only" alt="David Gregorio's Github stats" />
-<img width=47.2% src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidgregorio16&layout=compact&role=OWNER,COLLABORATOR&theme=react&hide_border=1&bg_color=000000#gh-dark-mode-only" alt="David Gregorio's Language stats" />
+<div align="center" style="display: flex; flex-direction: row;">
+<img width=55% height=180 src="https://github-readme-stats.vercel.app/api?username=davidgregorio16&show_icons=true&count_private=true&line_height=28&include_all_commits=true&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats&theme=react&hide_border=1&bg_color=00000000#gh-dark-mode-only" alt="David Gregorio's Github stats" />
+<img width=40% height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidgregorio16&layout=compact&role=OWNER,COLLABORATOR&theme=react&hide_border=1&bg_color=00000000#gh-dark-mode-only" alt="David Gregorio's Language stats" />
 </div>
 
 <br/>
