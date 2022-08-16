@@ -14,16 +14,21 @@ Hey, I'm David Gregorio!
 <!-- Light Mode -->
 <div align="center"> 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=185 src="https://github-readme-stats.vercel.app/api?username=davidgregorio16&show_icons=true&count_private=true&line_height=28&hide_border=1&include_all_commits=true&card_width=450&role=OWNER,COLLABORATOR&theme=graywhite&exclude_repo=github-readme-stats&bg_color=00000000#gh-light-mode-only" alt="David Gregorio's Github stats" />
+<img width=55% height=180 src="https://github-readme-stats.vercel.app/api?username=davidgregorio16&show_icons=true&count_private=true&line_height=28&include_all_commits=true&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats&theme=react&hide_border=1&bg_color=00000000#gh-dark-mode-only" alt="David Gregorio's Github stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img height=115 src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidgregorio16&layout=compact&hide_border=1&role=OWNER,COLLABORATOR&theme=graywhite&bg_color=00000000#gh-light-mode-only" alt="David Gregorio's Language stats" />
+<img width=40% height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidgregorio16&layout=compact&role=OWNER,COLLABORATOR&theme=react&hide_border=1&bg_color=00000000#gh-dark-mode-only" alt="David Gregorio's Language stats" />
 </a>
 </div>
+
 <!-- Dark Mode -->
 <div align="center" style="display: flex; flex-direction: row;">
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
 <img width=55% height=180 src="https://github-readme-stats.vercel.app/api?username=davidgregorio16&show_icons=true&count_private=true&line_height=28&include_all_commits=true&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats&theme=react&hide_border=1&bg_color=00000000#gh-dark-mode-only" alt="David Gregorio's Github stats" />
+</a>
+<a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
 <img width=40% height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidgregorio16&layout=compact&role=OWNER,COLLABORATOR&theme=react&hide_border=1&bg_color=00000000#gh-dark-mode-only" alt="David Gregorio's Language stats" />
+</a>
 </div>
 
 <br/>
