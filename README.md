@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+<!-- 07/27/2022 -->
 
 ![Banner](https://raw.githubusercontent.com/davidgregorio16/davidgregorio16/main/banner.png)
 <div align="center">
@@ -14,20 +14,20 @@ Hey, I'm David Gregorio!
 <!-- Light Mode -->
 <div align="center"> 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img width=55% height=180 src="https://github-readme-stats.vercel.app/api?username=davidgregorio16&show_icons=true&count_private=true&line_height=28&include_all_commits=true&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats&theme=graywhite&hide_border=1&bg_color=00000000#gh-light-mode-only" alt="David Gregorio's Github stats" />
+<img height=180 src="https://github-readme-stats.vercel.app/api?username=davidgregorio16&show_icons=true&count_private=true&line_height=28&include_all_commits=true&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats&theme=graywhite&hide_border=1&bg_color=00000000#gh-light-mode-only" alt="David Gregorio's Github stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
-<img width=40% height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidgregorio16&layout=compact&role=OWNER,COLLABORATOR&theme=graywhite&hide_border=1&bg_color=00000000#gh-light-mode-only" alt="David Gregorio's Language stats" />
+<img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidgregorio16&layout=compact&role=OWNER,COLLABORATOR&theme=graywhite&hide_border=1&bg_color=00000000#gh-light-mode-only" alt="David Gregorio's Language stats" />
 </a>
 </div>
 
 <!-- Dark Mode -->
 <div align="center">
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img width=55% height=180 src="https://github-readme-stats.vercel.app/api?username=davidgregorio16&show_icons=true&count_private=true&line_height=28&include_all_commits=true&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats&theme=react&hide_border=1&bg_color=00000000#gh-dark-mode-only" alt="David Gregorio's Github stats" />
+<img height=180 src="https://github-readme-stats.vercel.app/api?username=davidgregorio16&show_icons=true&count_private=true&line_height=28&include_all_commits=true&role=OWNER,COLLABORATOR&exclude_repo=github-readme-stats&theme=react&hide_border=1&bg_color=00000000#gh-dark-mode-only" alt="David Gregorio's Github stats" />
 </a>
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-dark-mode-only">
-<img width=40% height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidgregorio16&layout=compact&role=OWNER,COLLABORATOR&theme=react&hide_border=1&bg_color=00000000#gh-dark-mode-only" alt="David Gregorio's Language stats" />
+<img height=180 src="https://github-readme-stats.vercel.app/api/top-langs/?username=davidgregorio16&layout=compact&role=OWNER,COLLABORATOR&theme=react&hide_border=1&bg_color=00000000#gh-dark-mode-only" alt="David Gregorio's Language stats" />
 </a>
 </div>
 
@@ -59,5 +59,3 @@ Hey, I'm David Gregorio!
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
 </a>
 </div>
-
-</html>
