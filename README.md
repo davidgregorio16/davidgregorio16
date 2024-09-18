@@ -8,8 +8,6 @@ Hey, I'm David Gregorio!
 </h1>
 </div>
 
-<hr>
-
 <!-- Light Mode -->
 <div align="center"> 
 <a href="https://github.com/anuraghazra/github-readme-stats#gh-light-mode-only">
