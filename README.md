@@ -7,7 +7,6 @@ Hey, I'm David Gregorio!
 <a href="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif"><img src="https://media.giphy.com/media/3ohhwMDyS6rv3sB8yI/giphy.gif" width=40></a>
 </h1>
 </div>
-<h3 align="center">A BSIT student at Polytechnic Institute of Tabaco</h3>
 
 <hr>
 
